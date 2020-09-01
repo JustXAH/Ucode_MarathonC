@@ -4,7 +4,7 @@
 tmain.c
 a.out
 cmake-build-debug
-.idea
+.idea/
 CMakeLists.txt
 agent.h
 .txt
